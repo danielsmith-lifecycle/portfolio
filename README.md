@@ -12,5 +12,8 @@ Things I've built as a lifecycle and marketing-technology operator at a subscrip
 | [List Compare](case-studies/braze-list-compare.md) | Data utility | Python, pandas |
 | [Tracking Code Builder](case-studies/tracking-code-builder.md) | Internal desktop tool | Python, Tkinter |
 
+![Braze control room (sanitized)](images/braze-control-room.png)
+*Braze control room, sanitized with placeholder names and values.*
+
 ## How I work with AI
 I use Claude as a build partner: drafting and iterating on tools like the ones above, building Braze campaigns, producing dashboards and documentation, and running AI workflows through the Braze MCP server, where I also manage who has access.

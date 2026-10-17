@@ -48,9 +48,5 @@ Python · pandas · Tkinter · Claude
 - Receipts make it easy to answer "where did this list come from?"
 
 ## Screenshots
-*Screenshots coming soon.*
-
-<!-- Screenshot placeholders (sanitized, fake data only):
-- Main window with two fake files loaded and a mode selected
-- Sample receipt with fake file names and counts
--->
+![Sanitized screenshot](../images/braze-list-compare.png)
+*Sanitized screenshot: names and values are placeholders.*

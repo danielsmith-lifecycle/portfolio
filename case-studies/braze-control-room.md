@@ -37,8 +37,5 @@ Claude · Braze REST API · dashboarding
 - One daily view replaces a series of manual platform checks
 
 ## Screenshots
-*Screenshots coming soon.*
-
-<!-- Screenshot placeholders (sanitized, fake data only):
-- Dashboard overview with fake send names and made-up volumes, including one red alert tile
--->
+![Sanitized screenshot](../images/braze-control-room.png)
+*Sanitized screenshot: names and values are placeholders.*

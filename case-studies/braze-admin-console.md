@@ -54,10 +54,5 @@ Python · Tkinter · Braze REST API (user export, user track, subscriptions, cam
 - One consistent, repeatable way to do jobs that used to be one-off scripts
 
 ## Screenshots
-*Screenshots coming soon.*
-
-<!-- Screenshot placeholders (sanitized, fake data only):
-- Home screen showing the sidebar groups and the "API key loaded" indicator (no key visible)
-- Export Segment screen with a fake segment name and field picker
-- Match Emails result summary using fake addresses (e.g. user1@example.com)
--->
+![Sanitized screenshot](../images/braze-admin-console.png)
+*Sanitized screenshot: names and values are placeholders.*
